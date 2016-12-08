@@ -1,2 +1,4 @@
 # hello-world
-hello-world repo
+Hello-World Repo
+
+I am playing with github making edits
